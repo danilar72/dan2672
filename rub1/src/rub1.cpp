@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-//Вариант №3 Данилов Артём ИУ1-12Б
+//Рубежный контроль №1 Вариант №3 Данилов Артём ИУ1-12Б
 
 using namespace std;
 
